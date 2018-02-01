@@ -1,0 +1,11 @@
+C:\Users\MEYSAM\documents\visual studio 2015\Projects\Esmat\Esmat\bin\Release\Esmat.exe.config
+C:\Users\MEYSAM\documents\visual studio 2015\Projects\Esmat\Esmat\bin\Release\Esmat.exe
+C:\Users\MEYSAM\documents\visual studio 2015\Projects\Esmat\Esmat\bin\Release\Esmat.pdb
+C:\Users\MEYSAM\documents\visual studio 2015\Projects\Esmat\Esmat\obj\Release\Esmat.csprojResolveAssemblyReference.cache
+C:\Users\MEYSAM\documents\visual studio 2015\Projects\Esmat\Esmat\obj\Release\Esmat.FormEsmat.resources
+C:\Users\MEYSAM\documents\visual studio 2015\Projects\Esmat\Esmat\obj\Release\Esmat.Form2.resources
+C:\Users\MEYSAM\documents\visual studio 2015\Projects\Esmat\Esmat\obj\Release\Esmat.Form3.resources
+C:\Users\MEYSAM\documents\visual studio 2015\Projects\Esmat\Esmat\obj\Release\Esmat.Properties.Resources.resources
+C:\Users\MEYSAM\documents\visual studio 2015\Projects\Esmat\Esmat\obj\Release\Esmat.csproj.GenerateResource.Cache
+C:\Users\MEYSAM\documents\visual studio 2015\Projects\Esmat\Esmat\obj\Release\Esmat.exe
+C:\Users\MEYSAM\documents\visual studio 2015\Projects\Esmat\Esmat\obj\Release\Esmat.pdb
